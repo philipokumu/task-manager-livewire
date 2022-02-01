@@ -1,0 +1,1 @@
+    <p wire:click="destroy()" class="text-red-500 cursor-pointer mx-1">X</p>
