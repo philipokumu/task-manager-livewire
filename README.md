@@ -1,3 +1,7 @@
+#### Sample view
+![image](https://user-images.githubusercontent.com/8024882/152203084-abe813d9-b0fe-43f8-8f12-24c5e1d43d04.png)
+
+
 <p> cd task-manager</p>
 
 ### I am using laravel, livewire and alpine js in this application
