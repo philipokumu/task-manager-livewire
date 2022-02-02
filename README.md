@@ -4,28 +4,28 @@
 
 <p> cd task-manager</p>
 
-### I am using laravel, livewire and alpine js in this application
+#### I am using laravel, livewire and alpine js in this application
 
-### Install backend dependencies
+#### Install backend dependencies
 
 composer install
 
-### Install frontend dependencies
+#### Install frontend dependencies
 
 npm install
 
 npm run dev
 
-### Create a database by the name 'task-manager' in your php localhost
+#### Create a database by the name 'task-manager' in your php localhost
 
-### Open .env file and ensure to setup DB_USERNAME and DB_PASSWORD for your database according to your environment
+#### Open .env file and ensure to setup DB_USERNAME and DB_PASSWORD for your database according to your environment
 
-### Migrate the database
+#### Migrate the database
 
 php artisan migrate
 
-### Start your server and access the project from the link provided
+#### Start your server and access the project from the link provided
 
 php artisan serve
 
-### Access the site through the link provided by the above command. Commonly: http://127.0.0.1:8000
+#### Access the site through the link provided by the above command. Commonly: http://127.0.0.1:8000
